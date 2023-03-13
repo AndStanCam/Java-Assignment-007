@@ -2,9 +2,16 @@ package src;
 
 import java.util.Scanner;
 
+
+/**
+ * @author Trevor Hartman
+ * @author Ander Stanley-Camba
+ * @since 2023-03-12
+ * @version 1.0
+ */
 public class MyMath {
 
-    
+
     // Note that it is not required for num1 > num2 or vice versa from the user's perspective
     public static int gcf(int num1, int num2) {
         int fac = 0;
